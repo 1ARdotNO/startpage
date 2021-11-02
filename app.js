@@ -15,7 +15,7 @@ const CARDS = [
   {
     name: "Github",
     icon: "ri-github-fill",
-    link: "https://github.com/",
+    link: "https://github.com/OvrAp3x",
   },
   {
     name: "YouTube",
@@ -29,7 +29,7 @@ const CARDS = [
   },
   {
     name: "Plex",
-    icon: "movie",
+    icon: "ri-movie-line",
     link: "http://freya:32400/web/index.html#!/",
   },
 ];
