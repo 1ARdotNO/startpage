@@ -27,6 +27,11 @@ const CARDS = [
     icon: "ri-linkedin-fill",
     link: "https://www.linkedin.com/",
   },
+  {
+    name: "Plex",
+    icon: "movie",
+    link: "http://freya:32400/web/index.html#!/",
+  },
 ];
 
 /* -------------------------------------------------------- */
