@@ -8,44 +8,14 @@ const NAME = "Einar";
 
 const CARDS = [
   {
-    name: "Apple Music",
-    icon: "ri-music-2-fill",
-    link: "https://music.apple.com/us/browse",
-  },
-  {
     name: "Reddit",
     icon: "ri-reddit-fill",
     link: "https://www.reddit.com/",
   },
   {
-    name: "Figma",
-    icon: "ri-palette-fill",
-    link: "https://www.figma.com/",
-  },
-  {
     name: "Github",
     icon: "ri-github-fill",
     link: "https://github.com/",
-  },
-  {
-    name: "Twitter",
-    icon: "ri-twitter-fill",
-    link: "https://twitter.com",
-  },
-  {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
-  },
-  {
-    name: "Hashnode",
-    icon: "ri-hashtag",
-    link: "https://hashnode.com/",
-  },
-  {
-    name: "CodeSandbox",
-    icon: "ri-cloud-fill",
-    link: "https://codesandbox.io/dashboard/",
   },
   {
     name: "YouTube",
@@ -56,11 +26,6 @@ const CARDS = [
     name: "LinkedIn",
     icon: "ri-linkedin-fill",
     link: "https://www.linkedin.com/",
-  },
-  {
-    name: "Gmail",
-    icon: "ri-google-fill",
-    link: "https://mail.google.com/",
   },
 ];
 
